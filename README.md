@@ -1,5 +1,5 @@
-initial dependencies and modules
+# initial dependencies and modules
 
-npm init -y
+### npm init -y
 
-npm install dotenv express express-session express-mysql-session cors body-parser cookie-parser
+### npm install dotenv express express-session express-mysql-session cors body-parser cookie-parser
